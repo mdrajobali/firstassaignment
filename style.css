@@ -78,4 +78,34 @@
 #img3{
     background-color: #eef2f3;
 }
-    
+.imgthree{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin-top: 20px;
+    padding: 30px;
+
+
+}    
+.section3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    box-sizing: border-box;
+ 
+    margin-top: 20px;
+}
+.three{
+    margin-left: -50px;
+}
+.four{
+    margin-left: -20px;
+}
+.five{
+    margin-left: -5px;
+}
+.textsix{
+    text-decoration: underline;
+}
